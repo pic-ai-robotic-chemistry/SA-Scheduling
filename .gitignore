@@ -1,0 +1,16 @@
+__pycache__/
+.vscode/
+*.pyc
+*.log
+rl/data/runs/
+rl/swanlog
+
+multi_pms/expr_data/metrics/
+multi_pms/expr_data/data/temp/
+
+multi_pms/database/main_group.svg
+multi_pms/database/*.json
+multi_pms/database/*.sqlite
+
+multi_pms/expr_data/data/jsonl/*.jsonl
+!multi_pms/expr_data/data/jsonl/*dynamic*.jsonl

@@ -1,0 +1,69 @@
+{
+  "tariffInfo": {
+    "peak_price": 1.21,
+    "valley_price": 1.0,
+    "flat_price": 1.08,
+    "tariff_periods": [
+      {
+        "start": "00:00",
+        "end": "09:00",
+        "price_key": "valley_price"
+      },
+      {
+        "start": "09:00",
+        "end": "18:00",
+        "price_key": "flat_price"
+      },
+      {
+        "start": "18:00",
+        "end": "21:00",
+        "price_key": "peak_price"
+      },
+      {
+        "start": "21:00",
+        "end": "22:00",
+        "price_key": "flat_price"
+      },
+      {
+        "start": "22:00",
+        "end": "24:00",
+        "price_key": "valley_price"
+      }
+    ]
+  },
+  "mode": "dynamic",
+  "caseConfig": "replay_test_cases.json",
+  "dynamicDbPath": "multi_pms/database/dynamic_replay_countries.sqlite",
+  "dynamicWindowAdvancePairs": [
+    {
+      "x": 12,
+      "y": 1
+    }
+  ],
+  "schedule_method": [
+    "cp_or",
+    "rl_release_or",
+    "human"
+  ],
+  "makespan_60min_cost_in_valley_price_units": [
+    128
+  ],
+  "simulationStartTime": "2026-09-21 12:00:00",
+  "countryScenario": {
+    "id": "kr_daejeon",
+    "city": "Daejeon",
+    "currency": "KRW",
+    "scheme": "KEPCO General Service (A) II High-Voltage A Option I spring/autumn",
+    "pricesLocalPerKwh": {
+      "peak_price": 108.1,
+      "valley_price": 89.4,
+      "flat_price": 96.8
+    },
+    "verification": "2026 time bands verified; budget PDF page 86 matches prices but labels them 2024-07-01, September 2026 price continuity not independently confirmed",
+    "sources": [
+      "https://www.kepco.co.kr/home/media/newsroom/notice/boardView.do?boardMngNo=14&boardNo=2651",
+      "https://hbm.ice.go.kr/upload/people/na/bbs_1656/2025/11/eb415349116a398231afa18b853d3308.pdf"
+    ],
+    "timezone": "Asia/Shanghai"
+  }
+}

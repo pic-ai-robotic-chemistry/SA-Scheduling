@@ -1,0 +1,68 @@
+{
+  "tariffInfo": {
+    "peak_price": 2.07,
+    "valley_price": 1.0,
+    "flat_price": 1.6,
+    "tariff_periods": [
+      {
+        "start": "00:00",
+        "end": "07:00",
+        "price_key": "valley_price"
+      },
+      {
+        "start": "07:00",
+        "end": "11:00",
+        "price_key": "flat_price"
+      },
+      {
+        "start": "11:00",
+        "end": "17:00",
+        "price_key": "peak_price"
+      },
+      {
+        "start": "17:00",
+        "end": "19:00",
+        "price_key": "flat_price"
+      },
+      {
+        "start": "19:00",
+        "end": "24:00",
+        "price_key": "valley_price"
+      }
+    ]
+  },
+  "mode": "dynamic",
+  "caseConfig": "replay_test_cases.json",
+  "dynamicDbPath": "multi_pms/database/dynamic_replay_countries.sqlite",
+  "dynamicWindowAdvancePairs": [
+    {
+      "x": 12,
+      "y": 1
+    }
+  ],
+  "schedule_method": [
+    "cp_or",
+    "rl_release_or",
+    "human"
+  ],
+  "makespan_60min_cost_in_valley_price_units": [
+    128
+  ],
+  "simulationStartTime": "2026-09-21 12:00:00",
+  "countryScenario": {
+    "id": "ca_toronto",
+    "city": "Toronto",
+    "currency": "CAD",
+    "scheme": "OEB standard TOU summer",
+    "pricesLocalPerKwh": {
+      "peak_price": 0.203,
+      "valley_price": 0.098,
+      "flat_price": 0.157
+    },
+    "verification": "verified",
+    "sources": [
+      "https://www.oeb.ca/consumer-information-and-protection/electricity-rates"
+    ],
+    "timezone": "Asia/Shanghai"
+  }
+}

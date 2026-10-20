@@ -1,0 +1,3001 @@
+{
+    "workstationDefinitionList": [
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAK",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAM",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHH",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAJ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "电化学分析",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAL",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "移液平台2.0-1ml",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "催化剂传质物料站",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHJ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGM",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACT",
+            "version": "303-离心机",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAEY",
+            "version": "v1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHM",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "303谱学平台-XRD",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABG",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHN",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "magnetic_drop_copper_tube_workstation",
+            "version": "V1",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACB",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAP",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHN",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADZ",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFD",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAEY",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGB",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "fed_model_predict",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGJ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACH",
+            "version": "303_双臂",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAEO",
+            "version": "303高通量无机纳米材料合成_V1",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFK",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGB",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABX",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHM",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHO",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAS",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGU",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFY",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFQ",
+            "version": "303-谱学平台",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGA",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADQ",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFX",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFM",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "303-谱学平台",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFZ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAEW",
+            "version": "303高通量无机纳米材料合成_V1",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGT",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADW",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "移液平台2.0-5ml",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "fed_result_aggregation",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGF",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABU",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFA",
+            "version": "自研-1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACB",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABG",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABG",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "fed_local_model_predict",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHA",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "fed_local_model_train",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACN",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABC",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAEX",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGS",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADQ",
+            "version": "2.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAR",
+            "version": "2.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABC",
+            "version": "2.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGC",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFQ",
+            "version": "双臂机器人",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFD",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAD",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGZ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "fed_model_train",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFR",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFE",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACS",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFT",
+            "version": "303-谱学平台",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFR",
+            "version": "303-双臂合成",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACB",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFI",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFD",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGI",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFM",
+            "version": "303",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFK",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABG",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "high-entropy-electrolyte-opt",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "303谱学平台-红外",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFD",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFR",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACH",
+            "version": "gxq_1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADV",
+            "version": "303高通量无机纳米材料合成_V1",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADB",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "303物料-耐热",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABG",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHM",
+            "version": "0.1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFC",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABT",
+            "version": "303-谱学平台",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFQ",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHJ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACW",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAV",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAV",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHM",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAV",
+            "version": "303-谱学平台",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACG",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAEY",
+            "version": "2.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGZ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAEY",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAZ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAZ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHH",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADP",
+            "version": "303-谱学平台",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHB",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABE",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAES",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFQ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABL",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAT",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "mock_station_1",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFG",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "303物料站",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHL",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABM",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFI",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFV",
+            "version": "303谱学",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAR",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFD",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHJ",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACT",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CADQ",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CACN",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHK",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHK",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAU",
+            "version": "1.0",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHH",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAHK",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CABY",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "starting_station",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAGD",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAFF",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        },
+        {
+            "workstationTypeCode": "CAAI",
+            "version": "",
+            "allocates": [],
+            "commands": [],
+            "pipelines": []
+        }
+    ],
+    "workstationList": [
+        {
+            "containerInfos": [],
+            "id": "2084376421630976",
+            "workstationTypeCode": "CAFD",
+            "version": "CAAS0000",
+            "workstationCode": "CAAW_CAAS0000",
+            "workstationName": "自动化箱式炉工作站_02",
+            "status": "BUSY",
+            "sectionList": [
+                {
+                    "sectionCode": "high_temperature_calcination",
+                    "sectionName": "高温煅烧"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1874835790234624",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer_4_008",
+            "workstationName": "烘干机008号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1874733851771904",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer_3_006",
+            "workstationName": "烘干机006号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1491850857579520",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer_2_004",
+            "workstationName": "烘干机004号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1487079022855168",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer_003",
+            "workstationName": "烘干机003号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1392832678233088",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer",
+            "workstationName": "烘干机",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1490059560059904",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer_1_002",
+            "workstationName": "烘干机002号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1874835220694016",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer_007",
+            "workstationName": "烘干机007号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1874732870140928",
+            "workstationTypeCode": "CACH",
+            "version": "PACB0001",
+            "workstationCode": "dryer_005",
+            "workstationName": "烘干机005号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1656154543981568",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0000",
+            "workstationCode": "put_workstation_303_spectroscopy",
+            "workstationName": "303谱学平台中转工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                },
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "test_ln",
+                    "sectionName": "测试区域-ln-液相"
+                },
+                {
+                    "sectionCode": "test_ln",
+                    "sectionName": "测试区域-ln-液相"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "524_microexpression",
+                    "sectionName": "524微反应平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2103518987486208",
+            "workstationTypeCode": "CAFQ",
+            "version": "CAFG0051",
+            "workstationCode": "elec_chem_storage_workstation_CAFG0051",
+            "workstationName": "智能催化中转工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                },
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1656231198950400",
+            "workstationTypeCode": "CAAV",
+            "version": "PAAC0003",
+            "workstationCode": "magnetic_stirring_303_lab_spectroscopy",
+            "workstationName": "303谱学磁力搅拌工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2240388894950400",
+            "workstationTypeCode": "CAFV",
+            "version": "PACK0000",
+            "workstationCode": "microplate_reader_303",
+            "workstationName": "酶标仪303谱学",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2285613407273984",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0103",
+            "workstationCode": "CAAV_CAFG0103_4",
+            "workstationName": "磁力搅拌_自研_加热移瓶_4号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2359197440214016",
+            "workstationTypeCode": "CAGS",
+            "version": "PAFG0034",
+            "workstationCode": "CAGS_PAFG0034",
+            "workstationName": "十通道清洗加液工作站_V1",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2030759339492352",
+            "workstationTypeCode": "CAFD",
+            "version": "CAFG0034",
+            "workstationCode": "muffle_furnace_workstation",
+            "workstationName": "智能催化马弗炉工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2002713495143424",
+            "workstationTypeCode": "CAFF",
+            "version": "CACP0000",
+            "workstationCode": "liquid_dispensing_1ml_1",
+            "workstationName": "303液体进样站1ml_1",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2240388885087232",
+            "workstationTypeCode": "CACT",
+            "version": "CAFG0022",
+            "workstationCode": "centrifugation_machine_303_0",
+            "workstationName": "303离心机1号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1834680265311232",
+            "workstationTypeCode": "CAEY",
+            "version": "CAFG0000",
+            "workstationCode": "multi_channel_solid_sampling_workstation_303",
+            "workstationName": "多通道固体进样器",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2285611187635200",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0103",
+            "workstationCode": "CAAV_CAFG0103_2",
+            "workstationName": "磁力搅拌_自研_加热移瓶_2号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1421397565834240",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_new_tec",
+            "workstationName": "置物工作站_1",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2041951977178112",
+            "workstationTypeCode": "CAFD",
+            "version": "CAFG0034",
+            "workstationCode": "muffle_furnace_workstation_2",
+            "workstationName": "智能催化马弗炉工作站2号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2114856113538048",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0055",
+            "workstationCode": "magnetic_stirring_10_channel_2",
+            "workstationName": "10通道磁力搅拌_2",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1705412531356672",
+            "workstationTypeCode": "CADZ",
+            "version": "CAFE0001",
+            "workstationCode": "ustc_lc_instance",
+            "workstationName": "液相色谱仪",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                },
+                {
+                    "sectionCode": "test_ln",
+                    "sectionName": "测试区域-ln-液相"
+                },
+                {
+                    "sectionCode": "test_ln",
+                    "sectionName": "测试区域-ln-液相"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2321455814771712",
+            "workstationTypeCode": "CAFK",
+            "version": "PAFG0020",
+            "workstationCode": "CAFK_PAFG0020",
+            "workstationName": "催化剂气液微环境工作站_机数_气液传质_V2",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                },
+                {
+                    "sectionCode": "cuihua_303",
+                    "sectionName": "催化剂气液传质"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1345523304760320",
+            "workstationTypeCode": "CAAU",
+            "version": "PACR0000",
+            "workstationCode": "pure",
+            "workstationName": "纯化工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1531791640855552",
+            "workstationTypeCode": "CAAR",
+            "version": "PABN0002",
+            "workstationCode": "ultrasonic_cleaning_1",
+            "workstationName": "超声清洗工作站1",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2310943383618560",
+            "workstationTypeCode": "CADQ",
+            "version": "PAFG0019",
+            "workstationCode": "CADQ_PAFG0019_1",
+            "workstationName": "双工位电化学置物站_1",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2349785461588992",
+            "workstationTypeCode": "CAAV",
+            "version": "PAAC0003",
+            "workstationCode": "magnetic_stirring_303_lab_spectroscopy_4",
+            "workstationName": "303谱学磁力搅拌工作站4",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2349784072651776",
+            "workstationTypeCode": "CAAV",
+            "version": "PAAC0003",
+            "workstationCode": "magnetic_stirring_303_lab_spectroscopy_3",
+            "workstationName": "303谱学磁力搅拌工作站3",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1678870702982144",
+            "workstationTypeCode": "CAFF",
+            "version": "PACP0001",
+            "workstationCode": "liquid_dispensing_5ml",
+            "workstationName": "303液体进样站5ml",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1665850422887424",
+            "workstationTypeCode": "CAFT",
+            "version": "PABT0002",
+            "workstationCode": "high_flux_xrd_workstation_303_spectroscopy_xrd",
+            "workstationName": "303谱学XRD工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2081343787238400",
+            "workstationTypeCode": "CACB",
+            "version": "CAFG0044",
+            "workstationCode": "UV_light_press_lamination",
+            "workstationName": "光照压膜工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2347069221372928",
+            "workstationTypeCode": "CAGM",
+            "version": "PAFG0026",
+            "workstationCode": "CAGM_PAFG0026",
+            "workstationName": "303液体倾倒工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2024215507207168",
+            "workstationTypeCode": "CAFF",
+            "version": "CAFG0032",
+            "workstationCode": "four_channel_liquid_dispensing",
+            "workstationName": "四通道液体进样站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2112676091855872",
+            "workstationTypeCode": "CAFQ",
+            "version": "CAFG0054",
+            "workstationCode": "elec_chem_storage_workstation_recycle",
+            "workstationName": "智能催化回收工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2285609637544960",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0103",
+            "workstationCode": "CAAV_CAFG0103_1",
+            "workstationName": "磁力搅拌_自研_加热移瓶_1号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2063996360492032",
+            "workstationTypeCode": "CACB",
+            "version": "CAFG0039",
+            "workstationCode": "ustc_photocatalysis",
+            "workstationName": "光催化工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2114856827454464",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0055",
+            "workstationCode": "magnetic_stirring_10_channel_3",
+            "workstationName": "10通道磁力搅拌_3",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2114858014213120",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0055",
+            "workstationCode": "magnetic_stirring_10_channel_4",
+            "workstationName": "10通道磁力搅拌_4",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2114853804246016",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0055",
+            "workstationCode": "magnetic_stirring_10_channel_1",
+            "workstationName": "10通道磁力搅拌_1",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2092682090382336",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_7",
+            "workstationName": "置物工作站_7",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2092682890118144",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_8",
+            "workstationName": "置物工作站_8",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2061070900429824",
+            "workstationTypeCode": "CACS",
+            "version": "CAFG0036",
+            "workstationCode": "cooling_workstation_1",
+            "workstationName": "智能催化冷却工作站1号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2061229731152896",
+            "workstationTypeCode": "CAAI",
+            "version": "CAFG0037",
+            "workstationCode": "dark_box",
+            "workstationName": "暗箱工作站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2285612469781504",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0103",
+            "workstationCode": "CAAV_CAFG0103_3",
+            "workstationName": "磁力搅拌_自研_加热移瓶_3号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2310376274199552",
+            "workstationTypeCode": "CADQ",
+            "version": "PAFG0019",
+            "workstationCode": "CADQ_PAFG0019",
+            "workstationName": "双工位电化学置物站_0",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2092681051898880",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_5",
+            "workstationName": "置物工作站_5",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2114858907403264",
+            "workstationTypeCode": "CAAV",
+            "version": "CAFG0055",
+            "workstationCode": "magnetic_stirring_10_channel_5",
+            "workstationName": "10通道磁力搅拌_5",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2061595244004352",
+            "workstationTypeCode": "CAFF",
+            "version": "CAFG0038",
+            "workstationCode": "liquid_dispensing_ultrasonic",
+            "workstationName": "超声液体进样站",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1931563010556928",
+            "workstationTypeCode": "starting_station",
+            "version": "PACW0000",
+            "workstationCode": "starting_station_heat",
+            "workstationName": "物料站-耐热",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2092680756659200",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_4",
+            "workstationName": "置物工作站_4",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1427570000167936",
+            "workstationTypeCode": "starting_station",
+            "version": "PACW0001",
+            "workstationCode": "starting_station_303",
+            "workstationName": "303物料站",
+            "status": "BUSY",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2092680480490496",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_3",
+            "workstationName": "置物工作站_3",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2092681611969536",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_6",
+            "workstationName": "置物工作站_6",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "1390601699197952",
+            "workstationTypeCode": "CADQ",
+            "version": "CAFG0006",
+            "workstationCode": "h_dual_electrochemical",
+            "workstationName": "双工位电化学工作站",
+            "status": "BUSY",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2100708369925120",
+            "workstationTypeCode": "CAFF",
+            "version": "CACP0001",
+            "workstationCode": "liquid_dispensing_CACP0001",
+            "workstationName": "液体进样站_移液平台4.0-1ml",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2061071888614400",
+            "workstationTypeCode": "CACS",
+            "version": "CAFG0036",
+            "workstationCode": "cooling_workstation_2",
+            "workstationName": "智能催化冷却工作站2号",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "allocates": []
+        },
+        {
+            "containerInfos": [],
+            "id": "2092679028605952",
+            "workstationTypeCode": "CAFQ",
+            "version": "PAFG0001",
+            "workstationCode": "elec_chem_storage_workstation_2",
+            "workstationName": "置物工作站_2",
+            "status": "IDLE",
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                }
+            ],
+            "allocates": []
+        }
+    ],
+    "robotList": [
+        {
+            "id": "1650725451662336",
+            "robotTypeCode": "hs_robot",
+            "robotTypeName": "华数机器人",
+            "robotCode": "hsr_303_lab_material",
+            "robotName": "华数_303实验室机器人",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2123334448612352",
+            "robotTypeCode": "hs_robot",
+            "robotTypeName": "华数机器人",
+            "robotCode": "hsr_524_lab_material",
+            "robotName": "华数_524实验室机器人",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [
+                {
+                    "sectionCode": "524_microexpression",
+                    "sectionName": "524微反应平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "1835231897388032",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": "优傲机器人",
+            "robotCode": "303_magnetic_drop_robot",
+            "robotName": "303落磁机器人",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2378713765741568",
+            "robotTypeCode": "yj_robot",
+            "robotTypeName": "越疆机器人",
+            "robotCode": "yj_robot_post",
+            "robotName": "524_后处理机械臂",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [
+                {
+                    "sectionCode": "524_microexpression",
+                    "sectionName": "524微反应平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2248847063090176",
+            "robotTypeCode": "moac_robot",
+            "robotTypeName": null,
+            "robotCode": "test_hf_mock",
+            "robotName": "solid_1测试机器人",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [
+                {
+                    "sectionCode": "mock_test_001",
+                    "sectionName": "mock_test_001"
+                },
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2248847064040448",
+            "robotTypeCode": "moac_robot",
+            "robotTypeName": null,
+            "robotCode": "test_hf_mock__simu",
+            "robotName": "solid_1测试机器人__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "mock_test_001",
+                    "sectionName": "mock_test_001"
+                },
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "1727605241185280",
+            "robotTypeCode": "hf_dual",
+            "robotTypeName": "航发双臂机器人",
+            "robotCode": "hf_dual_rob1",
+            "robotName": "航发双臂机器人-303",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2010245704090624",
+            "robotTypeCode": "hf_robot",
+            "robotTypeName": "航发复合机器人",
+            "robotCode": "hf_robot_1",
+            "robotName": "航发1",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [
+                {
+                    "sectionCode": "high_temperature_calcination",
+                    "sectionName": "高温煅烧"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2307416584389633",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": "优傲机器人",
+            "robotCode": "303_inorganic_nano_ur_7e_robot__simu",
+            "robotName": "303无机纳米材料合成_优傲机器人__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "inorganic_nano",
+                    "sectionName": "无机纳米"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "1580994813068288",
+            "robotTypeCode": "hf_robot",
+            "robotTypeName": "航发复合机器人",
+            "robotCode": "hf_2",
+            "robotName": "航发_电化学",
+            "status": "IDLE",
+            "electricityQuantity": 99,
+            "sectionList": [
+                {
+                    "sectionCode": "gx_electro",
+                    "sectionName": "高新区电化学分析"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387016918017",
+            "robotTypeCode": "hs_robot",
+            "robotTypeName": "华数机器人",
+            "robotCode": "hsr_524_lab_material__simu",
+            "robotName": "华数_524实验室机器人__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "524_microexpression",
+                    "sectionName": "524微反应平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2307369085764608",
+            "robotTypeCode": "hf_robot",
+            "robotTypeName": "航发复合机器人",
+            "robotCode": "hf_robot_test__simu",
+            "robotName": "航发双工位电化学测试机器人__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387072459777",
+            "robotTypeCode": "hf_robot",
+            "robotTypeName": "航发复合机器人",
+            "robotCode": "hf_2__simu",
+            "robotName": "航发_电化学__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "gx_electro",
+                    "sectionName": "高新区电化学分析"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387052831745",
+            "robotTypeCode": "jzd_robot",
+            "robotTypeName": "嘉智达机器人",
+            "robotCode": "jzd_robot_hee_test_1__simu",
+            "robotName": "3号楼303-高熵电解液测试平台-嘉智达机器人__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "electrolyte_area",
+                    "sectionName": "电解液区域"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "1653280151438336",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": "优傲机器人",
+            "robotCode": "ur_303_spectroscopy_robot",
+            "robotName": "优傲_303谱学平台机械臂",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "test_ln",
+                    "sectionName": "测试区域-ln-液相"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387046179841",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": "优傲机器人",
+            "robotCode": "ur_303_spectroscopy_robot__simu",
+            "robotName": "优傲_303谱学平台机械臂__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "test_ln",
+                    "sectionName": "测试区域-ln-液相"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "gx_spectroscopy_lab",
+                    "sectionName": "谱学平台实验室"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2267959541400576",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": null,
+            "robotCode": "303_temp_ur_7e_robot__simu",
+            "robotName": "303高温煅烧_优傲机械臂__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "high_temperature_calcination",
+                    "sectionName": "高温煅烧"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387079373825",
+            "robotTypeCode": "yj_robot",
+            "robotTypeName": "越疆机器人",
+            "robotCode": "yj_robot_hu_CR5__simu",
+            "robotName": "303越疆机械臂CR5__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387065578497",
+            "robotTypeCode": "hf_robot",
+            "robotTypeName": "航发复合机器人",
+            "robotCode": "hf_robot_1__simu",
+            "robotName": "航发1__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "high_temperature_calcination",
+                    "sectionName": "高温煅烧"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2267959540515840",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": null,
+            "robotCode": "303_temp_ur_7e_robot",
+            "robotName": "303高温煅烧_优傲机械臂",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "high_temperature_calcination",
+                    "sectionName": "高温煅烧"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2081553489429504",
+            "robotTypeCode": "yj_robot",
+            "robotTypeName": "越疆机器人",
+            "robotCode": "yj_robot_hu_CR5",
+            "robotName": "303越疆机械臂CR5",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "intelligent_catalysis_platform_303",
+                    "sectionName": "303智能催化平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387059319809",
+            "robotTypeCode": "hf_dual",
+            "robotTypeName": "航发双臂机器人",
+            "robotCode": "hf_dual_rob1__simu",
+            "robotName": "航发双臂机器人-303__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "1407884031591424",
+            "robotTypeCode": "hf_robot",
+            "robotTypeName": "航发复合机器人",
+            "robotCode": "hf_robot_4",
+            "robotName": "航发_303",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387039200257",
+            "robotTypeCode": "hf_robot",
+            "robotTypeName": "航发复合机器人",
+            "robotCode": "hf_robot_4__simu",
+            "robotName": "航发_303__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "labx_303_eletrocatalysis",
+                    "sectionName": "303电催化"
+                },
+                {
+                    "sectionCode": "gx_303_aupts",
+                    "sectionName": "303柠檬酸钠合成"
+                },
+                {
+                    "sectionCode": "ZIF-8",
+                    "sectionName": "ZIF-8"
+                },
+                {
+                    "sectionCode": "double_arm_303_lab",
+                    "sectionName": "303双臂合成机器人实验室"
+                },
+                {
+                    "sectionCode": "mock_area",
+                    "sectionName": "303双工位电化学平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387003876353",
+            "robotTypeCode": "hs_robot",
+            "robotTypeName": "华数机器人",
+            "robotCode": "hsr_303_lab_material__simu",
+            "robotName": "华数_303实验室机器人__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2378713766659072",
+            "robotTypeCode": "yj_robot",
+            "robotTypeName": "越疆机器人",
+            "robotCode": "yj_robot_post__simu",
+            "robotName": "524_后处理机械臂__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "524_microexpression",
+                    "sectionName": "524微反应平台"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2240387032712193",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": "优傲机器人",
+            "robotCode": "303_magnetic_drop_robot__simu",
+            "robotName": "303落磁机器人__simu",
+            "status": "IDLE",
+            "electricityQuantity": 0,
+            "sectionList": [],
+            "clampList": [],
+            "containerInfos": []
+        },
+        {
+            "id": "2307416584389632",
+            "robotTypeCode": "universal_robot",
+            "robotTypeName": "优傲机器人",
+            "robotCode": "303_inorganic_nano_ur_7e_robot",
+            "robotName": "303无机纳米材料合成_优傲机器人",
+            "status": "BUSY",
+            "electricityQuantity": 0,
+            "sectionList": [
+                {
+                    "sectionCode": "inorganic_nano",
+                    "sectionName": "无机纳米"
+                }
+            ],
+            "clampList": [],
+            "containerInfos": []
+        }
+    ],
+    "taskList": [
+        {
+            "id": "1782975212371050",
+            "name": "smc_1_1",
+            "stamp": "2026-07-02 14:53:32",
+            "expr_no": "STC202607021453324453190001",
+            "status": "not_start",
+            "steps": [
+                {
+                    "id": "1782975212371051",
+                    "workstationType": "start",
+                    "definitionVersion": "",
+                    "time": "1",
+                    "status": "completed",
+                    "stepType": "ProcessControl",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371052",
+                    "workstationType": "starting_station",
+                    "definitionVersion": "PACW0001",
+                    "time": "3",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371053",
+                    "workstationType": "lock",
+                    "definitionVersion": "",
+                    "time": "0",
+                    "status": "completed",
+                    "stepType": "ProcessControl",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371054",
+                    "workstationType": "CAFF",
+                    "definitionVersion": "CACP0000",
+                    "time": "5",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371055",
+                    "workstationType": "CAEY",
+                    "definitionVersion": "CAFG0000",
+                    "time": "24",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371056",
+                    "workstationType": "CAFF",
+                    "definitionVersion": "PACP0001",
+                    "time": "6",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371057",
+                    "workstationType": "CAFF",
+                    "definitionVersion": "CACP0000",
+                    "time": "5",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371058",
+                    "workstationType": "unlock",
+                    "definitionVersion": "",
+                    "time": "0",
+                    "status": "completed",
+                    "stepType": "ProcessControl",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371059",
+                    "workstationType": "CAAV",
+                    "definitionVersion": "CAFG0055",
+                    "time": "480",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371060",
+                    "workstationType": "CACH",
+                    "definitionVersion": "PACB0001",
+                    "time": "480",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371061",
+                    "workstationType": "CAFD",
+                    "definitionVersion": "CAAS0000",
+                    "time": "330",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371062",
+                    "workstationType": "CAFQ",
+                    "definitionVersion": "PAFG0001",
+                    "time": "2",
+                    "status": "not_start",
+                    "stepType": "workstation",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                },
+                {
+                    "id": "1782975212371063",
+                    "workstationType": "end",
+                    "definitionVersion": "",
+                    "time": "1",
+                    "status": "not_start",
+                    "stepType": "ProcessControl",
+                    "pipeline": "",
+                    "containers": [],
+                    "startTime": null,
+                    "endTime": null
+                }
+            ]
+        }
+    ],
+    "stamp": 1768883530281
+}
