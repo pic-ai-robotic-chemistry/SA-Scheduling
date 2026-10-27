@@ -1,0 +1,42 @@
+{
+  "mode": "dynamic",
+  "dynamicWindowAdvancePairs": [
+    {"x": 12, "y": 1}
+  ],
+  "schedule_method": ["cp_or", "rl_release_or", "human"],
+  "peakPrices": [1, 2, 3, 4],
+  "valleyPrices": [1],
+  "makespan_60min_cost_in_valley_price_units": [1, 2, 4, 16, 32, 64, 128],
+  "uniqueTask": {
+    "scenarioName": "scenario_36_001",
+    "scheduleMethods": ["cp_or", "rl_release_or", "human"],
+    "peakPrices": [2],
+    "valleyPrices": [1],
+    "makespan_60min_cost_in_valley_price_units": [128],
+    "repeatCount": 5,
+    "repeatWindowAdvancePairs": [
+      {"x": 12, "y": 1}
+    ],
+    "combineWindowAdvancePairs": [
+      {"x": 6, "y": 1},
+      {"x": 7, "y": 1},
+      {"x": 8, "y": 1},
+      {"x": 9, "y": 1},
+      {"x": 10, "y": 1},
+      {"x": 11, "y": 1}
+    ],
+    "dynamicDbPath": "multi_pms/database/dynamic_replay_unique_task.sqlite"
+  },
+  "uniqueCompare": {
+    "scheduleMethods": [
+      "cp_green_or",
+      "rl_release_or",
+      "cp_green_limit_or"
+    ],
+    "peakPrices": [2],
+    "valleyPrices": [1],
+    "makespan_60min_cost_in_valley_price_units": [128],
+    "taskCounts": [6, 7, 8, 9, 10, 11, 12],
+    "dynamicDbPath": "multi_pms/database/dynamic_replay_unique_compare.sqlite"
+  }
+}

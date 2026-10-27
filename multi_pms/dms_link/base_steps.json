@@ -1,0 +1,735 @@
+{
+  "PBAs": [
+    {
+      "workstationType": "starting_station",
+      "definitionVersion": "PACW0001",
+      "time": 3,
+      "workstationCode": "starting_station_303",
+      "workstationName": "303物料站"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0000",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_1ml_1__simu",
+      "workstationName": "303液体进样站1ml_1__simu"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "PACP0001",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_5ml__simu",
+      "workstationName": "303液体进样站5ml__simu"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0000",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_1ml_1__simu",
+      "workstationName": "303液体进样站1ml_1__simu"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "PACP0001",
+      "time": 4,
+      "workstationCode": "liquid_dispensing_5ml__simu",
+      "workstationName": "303液体进样站5ml__simu"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0000",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_1ml_1__simu",
+      "workstationName": "303液体进样站1ml_1__simu"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAAV",
+      "definitionVersion": "CAFG0055",
+      "time": [60, 120, 180],
+      "workstationCode": "magnetic_stirring_10_channel_4__simu",
+      "workstationName": "10通道磁力搅拌_4__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0001",
+      "time": [120, 360, 720],
+      "workstationCode": "elec_chem_storage_workstation_2",
+      "workstationName": "置物工作站_2"
+    },
+    {
+      "workstationType": "CACT",
+      "definitionVersion": "CAFG0022",
+      "time": 10,
+      "workstationCode": "centrifugation_machine_303_0",
+      "workstationName": "303离心机1号"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 12,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 5,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "CAAV",
+      "definitionVersion": "CAFG0055",
+      "time": 10,
+      "workstationCode": "magnetic_stirring_10_channel_4__simu",
+      "workstationName": "10通道磁力搅拌_4__simu"
+    },
+    {
+      "workstationType": "CACT",
+      "definitionVersion": "CAFG0022",
+      "time": 10,
+      "workstationCode": "centrifugation_machine_303_0",
+      "workstationName": "303离心机1号"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 12,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 5,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0000",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_1ml_1__simu",
+      "workstationName": "303液体进样站1ml_1__simu"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CADQ",
+      "definitionVersion": "PAFG0019",
+      "time": 2,
+      "workstationCode": "CADQ_PAFG0019",
+      "workstationName": "双工位电化学置物站_0"
+    },
+    {
+      "workstationType": "CADQ",
+      "definitionVersion": "CAFG0006",
+      "time": 9,
+      "workstationCode": "h_dual_electrochemical",
+      "workstationName": "双工位电化学工作站"
+    },
+    {
+      "workstationType": "CADQ",
+      "definitionVersion": "PAFG0019",
+      "time": 2,
+      "workstationCode": "CADQ_PAFG0019",
+      "workstationName": "双工位电化学置物站_0"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFK",
+      "definitionVersion": "PAFG0020",
+      "time": 40,
+      "workstationCode": "CAFK_PAFG0020__simu",
+      "workstationName": "催化剂气液微环境工作站_机数_气液传质_V2__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0001",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_2",
+      "workstationName": "置物工作站_2"
+    }
+  ],
+  "PET": [
+    {
+      "workstationType": "starting_station",
+      "definitionVersion": "PACW0000",
+      "time": 3,
+      "workstationCode": "starting_station_heat",
+      "workstationName": "物料站-耐热"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAAV",
+      "definitionVersion": "CAFG0103",
+      "time": [60, 120, 180],
+      "workstationCode": "CAAV_CAFG0103_1__simu",
+      "workstationName": "磁力搅拌_自研_加热移瓶_1号__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0001",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_2",
+      "workstationName": "置物工作站_2"
+    }
+  ],
+  "IM": [
+    {
+      "workstationType": "starting_station",
+      "definitionVersion": "PACW0001",
+      "time": 3,
+      "workstationCode": "starting_station_303",
+      "workstationName": "303物料站"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "PACP0001",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_5ml",
+      "workstationName": "303液体进样站5ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "PACP0001",
+      "time": 4,
+      "workstationCode": "liquid_dispensing_5ml",
+      "workstationName": "303液体进样站5ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAAV",
+      "definitionVersion": "CAFG0055",
+      "time": [30, 60, 90],
+      "workstationCode": "magnetic_stirring_10_channel_4__simu",
+      "workstationName": "10通道磁力搅拌_4__simu"
+    },
+    {
+      "workstationType": "CACH",
+      "definitionVersion": "PACB0001",
+      "time": [60, 120, 180, 240, 300],
+      "workstationCode": "dryer_1_002__simu",
+      "workstationName": "烘干机002号__simu"
+    },
+    {
+      "workstationType": "CACT",
+      "definitionVersion": "CAFG0022",
+      "time": 10,
+      "workstationCode": "centrifugation_machine_303_0",
+      "workstationName": "303离心机1号"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 12,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 5,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAAR",
+      "definitionVersion": "PABN0002",
+      "time": 10,
+      "workstationCode": "ultrasonic_cleaning_1__simu",
+      "workstationName": "超声清洗工作站1__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0000",
+      "time": 2,
+      "workstationCode": "put_workstation_303_spectroscopy__simu",
+      "workstationName": "303谱学平台中转工作站__simu"
+    },
+    {
+      "workstationType": "CAAV",
+      "definitionVersion": "PAAC0003",
+      "time": 2,
+      "workstationCode": "magnetic_stirring_303_lab_spectroscopy_3__simu",
+      "workstationName": "303谱学磁力搅拌工作站3__simu"
+    },
+    {
+      "workstationType": "CAFT",
+      "definitionVersion": "PABT0002",
+      "time": 44,
+      "workstationCode": "high_flux_xrd_workstation_303_spectroscopy_xrd__simu",
+      "workstationName": "303谱学XRD工作站__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0001",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_2",
+      "workstationName": "置物工作站_2"
+    }
+  ],
+  "SMC": [
+    {
+      "workstationType": "starting_station",
+      "definitionVersion": "PACW0001",
+      "time": 3,
+      "workstationCode": "starting_station_303",
+      "workstationName": "303物料站"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0000",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_1ml_1__simu",
+      "workstationName": "303液体进样站1ml_1__simu"
+    },
+    {
+      "workstationType": "CAEY",
+      "definitionVersion": "CAFG0000",
+      "time": 24,
+      "workstationCode": "multi_channel_solid_sampling_workstation_303",
+      "workstationName": "多通道固体进样器"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "PACP0001",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_5ml__simu",
+      "workstationName": "303液体进样站5ml__simu"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0000",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_1ml_1__simu",
+      "workstationName": "303液体进样站1ml_1__simu"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAAV",
+      "definitionVersion": "CAFG0055",
+      "time": [480, 720, 960],
+      "workstationCode": "magnetic_stirring_10_channel_4__simu",
+      "workstationName": "10通道磁力搅拌_4__simu"
+    },
+    {
+      "workstationType": "CACH",
+      "definitionVersion": "PACB0001",
+      "time": [480, 720, 960],
+      "workstationCode": "dryer_2_004__simu",
+      "workstationName": "烘干机004号__simu"
+    },
+    {
+      "workstationType": "CAFD",
+      "definitionVersion": "CAAS0000",
+      "time": [330, 450, 570],
+      "workstationCode": "CAAW_CAAS0000__simu",
+      "workstationName": "自动化箱式炉工作站_02__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0001",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_2",
+      "workstationName": "置物工作站_2"
+    }
+  ],
+  "HEC": [
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CAFG0032",
+      "time": 10,
+      "workstationCode": "four_channel_liquid_dispensing",
+      "workstationName": "四通道液体进样站"
+    },
+    {
+      "workstationType": "CAFD",
+      "definitionVersion": "CAFG0034",
+      "time": [110, 170, 230, 290, 350],
+      "workstationCode": "muffle_furnace_workstation_2__simu",
+      "workstationName": "智能催化马弗炉工作站2号__simu"
+    },
+    {
+      "workstationType": "CACS",
+      "definitionVersion": "CAFG0036",
+      "time": 60,
+      "workstationCode": "cooling_workstation_2",
+      "workstationName": "智能催化冷却工作站2号"
+    },
+    {
+      "workstationType": "CAAI",
+      "definitionVersion": "CAFG0037",
+      "time": 5,
+      "workstationCode": "dark_box",
+      "workstationName": "暗箱工作站"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CAFG0038",
+      "time": 40,
+      "workstationCode": "liquid_dispensing_ultrasonic",
+      "workstationName": "超声液体进样站"
+    },
+    {
+      "workstationType": "CACB",
+      "definitionVersion": "CAFG0039",
+      "time": [10, 20, 30, 40, 50],
+      "workstationCode": "ustc_photocatalysis__simu",
+      "workstationName": "光催化工作站__simu"
+    },
+    {
+      "workstationType": "CACB",
+      "definitionVersion": "CAFG0044",
+      "time": 15,
+      "workstationCode": "UV_light_press_lamination__simu",
+      "workstationName": "光照压膜工作站__simu"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "CAFG0051",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_CAFG0051__simu",
+      "workstationName": "智能催化中转工作站__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0000",
+      "time": 3,
+      "workstationCode": "put_workstation_303_spectroscopy__simu",
+      "workstationName": "303谱学平台中转工作站__simu"
+    },
+    {
+      "workstationType": "CAFV",
+      "definitionVersion": "PACK0000",
+      "time": 40,
+      "workstationCode": "microplate_reader_303",
+      "workstationName": "酶标仪303谱学"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "CAFG0051",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_CAFG0051__simu",
+      "workstationName": "智能催化中转工作站__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "CAFG0054",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_recycle__simu",
+      "workstationName": "智能催化回收工作站__simu"
+    }
+  ],
+  "LDH": [
+    {
+      "workstationType": "starting_station",
+      "definitionVersion": "PACW0001",
+      "time": 3,
+      "workstationCode": "starting_station_303",
+      "workstationName": "303物料站"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 16,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "CACP0001",
+      "time": 5,
+      "workstationCode": "liquid_dispensing_CACP0001",
+      "workstationName": "液体进样站_移液平台4.0-1ml"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAAV",
+      "definitionVersion": "CAFG0055",
+      "time": [10, 30, 60],
+      "workstationCode": "magnetic_stirring_10_channel_4__simu",
+      "workstationName": "10通道磁力搅拌_4__simu"
+    },
+    {
+      "workstationType": "CACH",
+      "definitionVersion": "PACB0001",
+      "time": [60, 120, 180],
+      "workstationCode": "dryer_2_004__simu",
+      "workstationName": "烘干机004号__simu"
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CACT",
+      "definitionVersion": "CAFG0022",
+      "time": 13,
+      "workstationCode": "centrifugation_machine_303_0",
+      "workstationName": "303离心机1号"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 5,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "CAGS",
+      "definitionVersion": "PAFG0034",
+      "time": 2,
+      "workstationCode": "CAGS_PAFG0034__simu",
+      "workstationName": "十通道清洗加液工作站_V1__simu"
+    },
+    {
+      "workstationType": "CAAR",
+      "definitionVersion": "PABN0002",
+      "time": 10,
+      "workstationCode": "ultrasonic_cleaning_1__simu",
+      "workstationName": "超声清洗工作站1__simu"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 5,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "lock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CACT",
+      "definitionVersion": "CAFG0022",
+      "time": 13,
+      "workstationCode": "centrifugation_machine_303_0",
+      "workstationName": "303离心机1号"
+    },
+    {
+      "workstationType": "CAGM",
+      "definitionVersion": "PAFG0026",
+      "time": 5,
+      "workstationCode": "CAGM_PAFG0026__simu",
+      "workstationName": "303液体倾倒工作站__simu"
+    },
+    {
+      "workstationType": "unlock",
+      "definitionVersion": "",
+      "time": 0,
+      "workstationCode": "",
+      "workstationName": ""
+    },
+    {
+      "workstationType": "CAFF",
+      "definitionVersion": "PACP0001",
+      "time": 6,
+      "workstationCode": "liquid_dispensing_5ml__simu",
+      "workstationName": "303液体进样站5ml__simu"
+    },
+    {
+      "workstationType": "CAAR",
+      "definitionVersion": "PABN0002",
+      "time": 10,
+      "workstationCode": "ultrasonic_cleaning_1__simu",
+      "workstationName": "超声清洗工作站1__simu"
+    },
+    {
+      "workstationType": "CADQ",
+      "definitionVersion": "CAFG0006",
+      "time": 100,
+      "workstationCode": "h_dual_electrochemical",
+      "workstationName": "双工位电化学工作站"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0000",
+      "time": 2,
+      "workstationCode": "put_workstation_303_spectroscopy__simu",
+      "workstationName": "303谱学平台中转工作站__simu"
+    },
+    {
+      "workstationType": "CADZ",
+      "definitionVersion": "CAFE0001",
+      "time": 40,
+      "workstationCode": "ustc_lc_instance__simu",
+      "workstationName": "液相色谱仪__simu"
+    },
+    {
+      "workstationType": "CAFQ",
+      "definitionVersion": "PAFG0001",
+      "time": 2,
+      "workstationCode": "elec_chem_storage_workstation_2",
+      "workstationName": "置物工作站_2"
+    }
+  ]
+}

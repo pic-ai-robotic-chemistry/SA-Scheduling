@@ -1,0 +1,60 @@
+{
+    "schedule": {
+        "database": "/database",
+        "database_file": "task",
+        "model_name": "../rl/data/model/latest_model.pt",
+        "normal": {
+            "flask_route": "/scheduling",
+            "flask_port": 5060
+        },
+        "robot_list": {
+            "GX305": [
+                "hf_robot_4",
+                "ur_303_spectroscopy_robot"
+            ]
+        }
+    },
+    "power_info": {
+        "power_info": {
+            "starting_station-PACW0000-物料站耐热": 0,
+            "starting_station-PACW0001-303物料站": 0,
+            "CAAI-CAFG0037-暗箱工作站": 750,
+            "CAAR-PABN0002-超声清洗工作站1": 120,
+            "CAAU-PACR0000-纯化工作站": 650,
+            "CAAV-CAFG0055-10通道磁力搅拌": 12,
+            "CAAV-CAFG0103-磁力搅拌自研加热移瓶": 1300,
+            "CAAV-PAAC0003-303谱学磁力搅拌工作站": 12,
+            "CACB-CAFG0039-光催化工作站": 450,
+            "CACB-CAFG0044-光照压膜工作站": 450,
+            "CACH-PACB0001-烘干机": 1000,
+            "CACS-CAFG0036-智能催化冷却工作站": 400,
+            "CACT-CAFG0022-303离心机": 500,
+            "CADQ-CAFG0006-双工位电化学工作站": 520,
+            "CADQ-PAFG0019-双工位电化学置物站": 0,
+            "CADZ-CAFE0001-液相色谱仪": 3000,
+            "CAEY-CAFG0000-多通道固体进样器": 120,
+            "CAFD-CAAS0000-自动化箱式炉工作站": 9000,
+            "CAFD-CAFG0034-智能催化马弗炉工作站": 6000,
+            "CAFF-CACP0000-303液体进样站1ml": 360,
+            "CAFF-CACP0001-移液平台4点0_1ml": 360,
+            "CAFF-CAFG0032-四通道液体进样站": 640,
+            "CAFF-CAFG0038-超声液体进样站": 1200,
+            "CAFF-PACP0001-303液体进样站5ml": 360,
+            "CAFK-PAFG0020-催化剂气液微环境工作站": 450,
+            "CAFQ-CAFG0051-智能催化中转工作站": 1320,
+            "CAFQ-CAFG0054-智能催化回收工作站": 0,
+            "CAFQ-PAFG0000-303谱学平台中转工作站": 0,
+            "CAFQ-PAFG0001-置物工作站": 0,
+            "CAFT-PABT0002-303谱学XRD工作站": 600,
+            "CAFV-PACK0000-酶标仪303谱学": 480,
+            "CAGM-PAFG0026-303液体倾倒工作站": 100,
+            "CAGS-PAFG0034-十通道清洗加液工作站": 1200
+        },
+        "tariff_file": "tariff_periods.jsonc",
+        "peak_price": 2,
+        "valley_price": 1,
+        "valley_start": 22,
+        "valley_end": 8,
+        "makespan_60min_cost_in_valley_price_units": 3
+    }
+}

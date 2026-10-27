@@ -1,0 +1,51 @@
+{
+  "tariffInfo": {
+    "peak_price": 1.36,
+    "valley_price": 1.0,
+    "tariff_periods": [
+      {
+        "start": "00:00",
+        "end": "07:00",
+        "price_key": "valley_price"
+      },
+      {
+        "start": "07:00",
+        "end": "24:00",
+        "price_key": "peak_price"
+      }
+    ]
+  },
+  "mode": "dynamic",
+  "caseConfig": "replay_test_cases.json",
+  "dynamicDbPath": "multi_pms/database/dynamic_replay_countries.sqlite",
+  "dynamicWindowAdvancePairs": [
+    {
+      "x": 12,
+      "y": 1
+    }
+  ],
+  "schedule_method": [
+    "cp_or",
+    "rl_release_or",
+    "human"
+  ],
+  "makespan_60min_cost_in_valley_price_units": [
+    128
+  ],
+  "simulationStartTime": "2026-09-21 12:00:00",
+  "countryScenario": {
+    "id": "uk_liverpool",
+    "city": "Liverpool",
+    "currency": "GBP",
+    "scheme": "Conrad Energy Deemed and Out of Contract Rates — Non-Domestic Aggregated No Residual",
+    "pricesLocalPerKwh": {
+      "peak_price": 0.3351,
+      "valley_price": 0.2461
+    },
+    "verification": "Official Conrad Energy page verified: effective 2026-07-01; day 33.51p/kWh 07:00-24:00, night 24.61p/kWh 00:00-07:00. Non-domestic Profile Class 0; excludes VAT, CCL, standing charges and other non-energy charges. Representative published tariff, not a Liverpool-specific contract.",
+    "sources": [
+      "https://conradenergy.co.uk/energy-for-business/buy-energy/fixed-price-contracts/deemed-and-out-of-contract-rates/"
+    ],
+    "timezone": "Asia/Shanghai"
+  }
+}

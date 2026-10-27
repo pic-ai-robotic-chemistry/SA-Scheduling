@@ -1,0 +1,9 @@
+{
+    // Peak runs from 08:00 to 22:00; off-peak runs from 22:00 to 08:00 the next day.
+    // Read peak_price / valley_price from schedule_params.jsonc, allowing replay overrides.
+    // Additional periods are supported; for flat-rate periods, use price_key: "flat_price" and define flat_price in this file.
+    "tariff_periods": [
+        {"start": "08:00", "end": "22:00", "price_key": "peak_price"},
+        {"start": "22:00", "end": "08:00", "price_key": "valley_price"}
+    ]
+}

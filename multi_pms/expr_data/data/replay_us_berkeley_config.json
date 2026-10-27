@@ -1,0 +1,56 @@
+{
+  "tariffInfo": {
+    "peak_price": 1.67,
+    "valley_price": 1.0,
+    "tariff_periods": [
+      {
+        "start": "00:00",
+        "end": "16:00",
+        "price_key": "valley_price"
+      },
+      {
+        "start": "16:00",
+        "end": "21:00",
+        "price_key": "peak_price"
+      },
+      {
+        "start": "21:00",
+        "end": "24:00",
+        "price_key": "valley_price"
+      }
+    ]
+  },
+  "mode": "dynamic",
+  "caseConfig": "replay_test_cases.json",
+  "dynamicDbPath": "multi_pms/database/dynamic_replay_countries.sqlite",
+  "dynamicWindowAdvancePairs": [
+    {
+      "x": 12,
+      "y": 1
+    }
+  ],
+  "schedule_method": [
+    "cp_or",
+    "rl_release_or",
+    "human"
+  ],
+  "makespan_60min_cost_in_valley_price_units": [
+    128
+  ],
+  "simulationStartTime": "2026-09-21 12:00:00",
+  "countryScenario": {
+    "id": "us_berkeley",
+    "city": "Berkeley",
+    "currency": "USD",
+    "scheme": "PG&E B-6 summer",
+    "pricesLocalPerKwh": {
+      "peak_price": 0.64253,
+      "valley_price": 0.38491
+    },
+    "verification": "verified",
+    "sources": [
+      "https://www.pge.com/tariffs/assets/pdf/tariffbook/ELEC_SCHEDS_B-6.pdf"
+    ],
+    "timezone": "Asia/Shanghai"
+  }
+}
